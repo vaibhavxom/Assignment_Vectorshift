@@ -1,4 +1,7 @@
-# VectorShift Integrations Technical Assessment
+![Completed](https://img.shields.io/badge/✓%20Completed-brightgreen)
+
+
+# VectorShift Integrations Technical Assessment  
 
 This project is a full-stack application that integrates with **HubSpot** using OAuth 2.0. It demonstrates a working implementation of both frontend (React) and backend (FastAPI) services with Redis support.  
 
